@@ -12,7 +12,6 @@ html {
   background-color: #101114;
 }
 
-
 @layer base {
   :root {
     --background: 0 0% 100%;
@@ -168,13 +167,13 @@ html {
   filter: invert(1);
 }
 .cl-internal-b3fm6y {
-  background: #f97535;
+  background: blue;
 }
 .cl-formButtonPrimary {
-  background: #f97535;
+  background: blue;
 }
 .cl-footerActionLink {
-  color: #f97535;
+  color: blue;
 }
 .cl-headerSubtitle {
   color: #c5d0e6;
@@ -191,5 +190,5 @@ html {
   color: white;
 }
 .cl-internal-wkkub3 {
-  color: #f97535;
+  color: blue;
 }

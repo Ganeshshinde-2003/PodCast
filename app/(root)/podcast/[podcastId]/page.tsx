@@ -1,9 +1,11 @@
-import React from 'react'
+import React from "react";
 
-const PodCastDetails = ({params}: {params: {podcastId: string}}) => {
+const PodCastDetails = ({ params }: { params: { podcastId: string } }) => {
   return (
-    <div className='text-white'>{params.podcastId}</div>
-  )
-}
+    <div>
+      <h1 className="text-20 font-bold text-white-1">Creat  Podcast</h1>
+    </div>
+  );
+};
 
-export default PodCastDetails
+export default PodCastDetails;
